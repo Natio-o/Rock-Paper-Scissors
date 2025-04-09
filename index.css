@@ -1,0 +1,43 @@
+body{
+  background-color: rgb(88, 88, 88);
+}
+
+
+.gameChoice {
+  margin-top: 30px;
+}
+.rock {
+  border: none;
+  border-radius: 30px;
+  background-color: gray;
+}
+
+.rockImg{
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+}
+
+.paper {
+  border: none;
+  border-radius: 30px;
+  background-color: gray;
+}
+
+.paperImg{
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+}
+
+.scissors {
+  border: none;
+  border-radius: 30px;
+  background-color: gray;
+}
+
+.scissorsImg{
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+}
